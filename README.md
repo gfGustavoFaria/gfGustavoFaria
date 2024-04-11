@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gustavo Faria
+## Olá! Seja bem-vindo(a)
 ### Análise e Engenharia de Dados
 
 - 🌱 Estudando Ciência de Dados
